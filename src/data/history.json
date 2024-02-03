@@ -1,0 +1,18 @@
+[
+  {
+    "role": "Front-end Developer",
+    "organisation": "Kadosh Softwares",
+    "startDate": "Dec, 2022",
+    "endDate": "Present",
+    "experiences": ["Collaborated with cross-functional teams to develop innovative web applications using: React.js, Vue.js, and Angular."],
+    "imageSrc": "history/logo.png"
+  },
+  {
+    "role": "Front-end Developer",
+    "organisation": "BigBird Transportation",
+    "startDate": "Sep, 2021",
+    "endDate": "Nov, 2022",
+    "experiences": ["Developed interfaces for logistics management applications & reporting tools to provide insights into logistics performance metrics."],
+    "imageSrc": "history/microsoft.png"
+  }
+]
