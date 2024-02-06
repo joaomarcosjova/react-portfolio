@@ -1,4 +1,4 @@
-# Portfolio Website | [https://marcosjova.netlify.app](https://marcos-react-portfolio.netlify.app/)
+# Portfolio Website | https://marcos-react-portfolio.netlify.app/
 
 ![image](https://github.com/joaomarcosjova/react-portfolio/assets/89745621/1715372c-9a40-43f2-b542-69682aee9931)
 
